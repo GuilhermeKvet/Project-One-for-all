@@ -107,7 +107,7 @@ INSERT INTO SpotifyClone.musics (title, duration, album_id)
     ('The Bard’s Song', 244, 7),
     ('ALIEN SUPERSTAR', 116, 1),
     ('Under Pressure', 152, 3),
-    ('BREAK MY SOUL"', 279, 1),
+    ('BREAK MY SOUL', 279, 1),
     ('Como Nossos Pais', 105, 4);
     
 INSERT INTO SpotifyClone.reproduction_history (music_id, user_id, reproduction_date)
